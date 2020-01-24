@@ -1,6 +1,6 @@
-# Node Vue Template
+# Node Vuelectron Template
 
-A frontend template for vue development 
+A node template for vue and electron development 
 
 * Information
     * Vue 2 with CLI

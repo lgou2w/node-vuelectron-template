@@ -15,3 +15,4 @@ const rm = (dir) => {
 }
 
 rm(path.resolve(__dirname, '..', 'dist'))
+rm(path.resolve(__dirname, '..', 'dist_electron'))
